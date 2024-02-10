@@ -1,0 +1,57 @@
+body {
+  background-color: #EEF1FF;
+  padding-left: 15%;
+  padding-right: 15%;
+}
+hr {
+  background-color: #EEF1FF;
+  border-style: none;
+  border-top-style: dotted;
+  border-color: black;
+  border-width: 5px;
+  width: 5%;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  size: 10px;
+
+}
+h1, h3{
+color: #B1B2FF;
+}
+
+  /* Navbar */
+  .navbar{
+    padding: 0 0 4.5rem;
+  }
+  p{
+    color: black;
+  }
+  .age-p{
+    margin-bottom: 0;
+  }
+  .profile-pic{
+    margin-right: 30px;
+    width: 250px; 
+    height: 250px;
+  }
+  .img-favorites{
+    width: 100px; 
+    height: 100px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+    margin-top: 20px;
+  }
+
+  /* table */
+  .table-favorite{
+    text-align: center;
+  }
+  .description-favorite{
+    padding-left: 5%;
+    padding-right: 5% ;
+  }
+li{
+  text-decoration: none;
+}
+
+    
